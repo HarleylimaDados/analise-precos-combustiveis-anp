@@ -71,6 +71,8 @@ A base limpa é salva em `dados/precos_limpos.parquet`, pasta que fica fora do G
 
 ## Autoria
 
-Projeto feito por Harley Lima. Usei IA (Claude) como apoio para tirar dúvidas de Python e SQL, revisar o código e ajudar a montar parte das análises e dos textos.
+Projeto feito por Harley Lima. Escrevi e rodei no Colab a maior parte do código: o download dos dados, a limpeza e as perguntas P1 a P4, conferindo cada resultado no caminho.
+
+Usei IA (Claude) como apoio: para explicar Python e SQL passo a passo, sugerir abordagens, ajustar a parte final da limpeza, fazer as perguntas P5 e P6 e revisar os textos e este README.
 
 Contato: [LinkedIn](https://www.linkedin.com/in/harley-lima-b195a5329/) · harleylima25@gmail.com
