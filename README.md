@@ -21,7 +21,7 @@ Análise de 2 milhões de preços coletados pela ANP em postos de todo o país, 
 
 - A gasolina subiu cerca de 32% no período (no Brasil, de R$ 5,04 para R$ 6,66). Diesel S10 e etanol subiram perto de 10%.
 - Entre os estados, o preço do etanol varia o dobro do da gasolina (37% contra 18%). SP tem o etanol mais barato do país.
-- Em Rio Preto, o etanol ficou abaixo de 70% do preço da gasolina em 39 dos 42 meses. De junho a dezembro, na safra da cana, fica perto de 60%.
+- Em Rio Preto, o etanol ficou abaixo de 70% do preço da gasolina em 39 dos 42 meses. Entre junho e dezembro, com a safra da cana em andamento, fica perto de 60%.
 - Na mesma cidade e semana, os postos das 3 grandes bandeiras cobram de 13 a 17 centavos a mais por litro que os de bandeira branca.
 - Em Rio Preto, os postos mais baratos cobram 59 centavos a menos por litro de gasolina que os mais caros, cerca de R$ 29 por tanque de 50 litros. Pesquisar o posto pesa mais que escolher a bandeira.
 - Entre 11 cidades da região, Rio Preto tem o 2º etanol e a 3ª gasolina mais baratos.
